@@ -1,2 +1,2 @@
 # Statistics
-MATLAB file contains codes that invoke commands on the statistics subject and they are: Minimum and Maximum, Mean value, Variance , Standard Deviation, Mode, Median.
+MATLAB  implementation for invoking basic statistical parameters (Minimum, Maximum, Mean, Median, Mode, Variance and Standard Deviation)
